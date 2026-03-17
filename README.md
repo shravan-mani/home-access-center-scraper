@@ -5,7 +5,7 @@ A super-fast, stateless scraper for PowerSchool Home Access Center (HAC) built w
 
 ## Demo
 
-Live UI for Demo - Hosted on Vercel ↓
+Rough Live UI for Demo - Hosted on Vercel ↓
 
 [![Demo Link](https://img.shields.io/badge/View%20Live%20Demo-0047AB)](https://hac-scraper.vercel.app/
 )
