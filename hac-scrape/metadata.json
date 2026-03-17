@@ -1,0 +1,5 @@
+{
+  "name": "HAC Scraper",
+  "description": "A high-speed PowerSchool Home Access Center data extractor. Written by Shravan Mani.",
+  "requestFramePermissions": []
+}
